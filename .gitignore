@@ -43,8 +43,11 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+<<<<<<< HEAD
 /lib/config
 
+=======
+>>>>>>> main
 ## Node
 # Logs
 logs
